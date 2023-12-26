@@ -14,4 +14,7 @@
     <string name="lvtablanotas"></string>
     <string name="btnSacarPromedio">Sacar Promedio</string>
     <string name="id">Id</string>
+    <string name="editTextUsername"></string>
+    <string name="editTextPassword"></string>
+    <string name="buttonLogin">INICIAR SESION</string>
 </resources>
