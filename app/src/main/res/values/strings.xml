@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">notas2023</string>
+    <string name="edtcodigo"></string>
+    <string name="btnconsultar">consultar</string>
+    <string name="edtcurso"></string>
+    <string name="edtnota1"></string>
+    <string name="edtnota2"></string>
+    <string name="edtnota3"></string>
+    <string name="edtpromedio"></string>
+    <string name="button1">consultar</string>
+    <string name="button2">Guardar</string>
+    <string name="button3">modificar</string>
+    <string name="button4">eliminar</string>
+    <string name="lvtablanotas"></string>
+</resources>
