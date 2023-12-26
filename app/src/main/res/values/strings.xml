@@ -12,4 +12,6 @@
     <string name="button3">modificar</string>
     <string name="button4">eliminar</string>
     <string name="lvtablanotas"></string>
+    <string name="btnSacarPromedio">Sacar Promedio</string>
+    <string name="id">Id</string>
 </resources>
