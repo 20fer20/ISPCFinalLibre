@@ -14,7 +14,12 @@
     <string name="lvtablanotas"></string>
     <string name="btnSacarPromedio">Sacar Promedio</string>
     <string name="id">Id</string>
+    <string name="Curso">Materia</string>
+    <string name="nota1">Ingresar Nota 1</string>
+    <string name="nota2">Ingresar Nota 2</string>
+    <string name="nota3">Ingresar Nota 3</string>
     <string name="editTextUsername"></string>
     <string name="editTextPassword"></string>
-    <string name="buttonLogin">INICIAR SESION</string>
+    <string name="buttonLogin">Ingresar</string>
+    <string name="imageView"></string>
 </resources>
