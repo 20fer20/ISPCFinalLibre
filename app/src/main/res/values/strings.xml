@@ -22,4 +22,6 @@
     <string name="editTextPassword"></string>
     <string name="buttonLogin">Ingresar</string>
     <string name="imageView"></string>
+    <string name="txtFer">Fer Juarez - 2023</string>
+    <string name="txtTitulo">BIENVENIDO A NOTAS2023</string>
 </resources>

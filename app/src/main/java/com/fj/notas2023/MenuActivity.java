@@ -1,6 +1,6 @@
 package com.fj.notas2023;
 
-// MenuActivity.java
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -19,7 +19,7 @@ public class MenuActivity extends AppCompatActivity {
         btnPromedio.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Abrir MainActivity
+
                 Intent intent = new Intent(MenuActivity.this, MainActivity.class);
                 startActivity(intent);
             }
